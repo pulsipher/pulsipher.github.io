@@ -28,6 +28,15 @@ The course materials are freely available [here](https://github.com/infiniteopt/
 
 To date, I have taught this course at the University of Wisconsin-Madison, Carnegie Mellon University, and in Busan, South Korea.
 
+# Short Course on Euler Methods
+I have put together a short course on introductory numerical methods for simulating ordinary differential equations via Euler methods.
+
+<ul class="actions">
+	<li><a href="/files/euler_syllabus.html" class="button icon fa-file">Syllabus</a></li>
+</ul>
+
+The course materials are freely available [here](https://github.com/pulsipher/eulercourse) on GitHub. 
+
 <ul class="actions">
     <li><a href="/teaching.html#courses" class="button icon fa-arrow-left">Go back to Teaching Page</a></li>
 </ul>
