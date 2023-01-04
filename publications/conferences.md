@@ -9,7 +9,6 @@ banner_color: style4
 ---
 
 <ol reversed>
-    <li><b>Pulsipher, J. L.</b>, Lin, S., Xi, Y., and Laird, C. D. (Oct. 2022). “Computationally Efficient Global Optimization Approaches for the Estimation of Transmission Parameter Profiles in Infectious Disease Models”. 33rd European Symposium on Computer Aided Process Engineering. <i>Accepted for Further Review</i>.</li>
     <li>Ammari, B. L., Stinchfield, G., Bynum, M., Johnson, E. S., <b>Pulsipher, J. L.</b>, Qian, Y., Hart, W. E., and Laird, C. D. (Sept. 2022). “Computational Performance of Piecewise Linear Machine Learning Surrogates Embedded in Optimization Problems”. 33rd European Symposium on Computer Aided Process Engineering. <i>Accepted for Further Review</i>.</li>
     <li>Ovalle, D., <b>Pulsipher, J. L.</b>, Gomez, C., Gomez, J. M., Laird, C. D., Drouven, M., and Grossmann, I. E. (Sept. 2022). “Study of Different Formulations for the Multiperiod Blending Problem Applied to Lithium Recovery from Produced Water”. 33rd European Symposium on Computer Aided Process Engineering. <i>Accepted for Further Review</i>.</li>
     <li>Ammari, B. L., Meraklı, M., Kompalli, S., Qian, Y., <b>Pulsipher, J. L.</b>, Bynum, M., Furman, K. C., and Laird, C. D. (July 2022). “Computational Performance of Algebraic Modeling Languages with Alternate Solver Interfaces and Advanced Modeling Components”. Foundations of Computer Aided Process Operations / Chemical Process Control 2023. <i>In Press</i>.</li>
