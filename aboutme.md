@@ -19,7 +19,7 @@ banner_color: style1
         <h2>Education</h2>
         <ul>
             <li><b>Postdoc in Chemical Engineering</b>, <i>Carnegie Mellon University, Pittsburgh, PA, USA</i> (2022-Present)<br/>Advisors: Professors Carl Laird and Ignacio Grossmann</li>
-			<li><b>Ph.D. in Chemical and Biological Engineering</b>, <i>University of Wisconsin-Madison, Madison, WI, USA</i> (2017-2022)<br/>Advisor: Professor Victor Zavla</li>
+			<li><b>Ph.D. in Chemical and Biological Engineering</b>, <i>University of Wisconsin-Madison, Madison, WI, USA</i> (2017-2022)<br/>Advisor: Professor Victor Zavala</li>
 			<li><b>B.Sc. in Chemical Engineering</b>, <i>Brigham Young University, Provo, UT, USA</i> (2012-2017)<br/> Advisor: Professor John Hedengren</li>
 		</ul>
         <h2>Research Experience</h2>
