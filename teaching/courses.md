@@ -28,8 +28,8 @@ The course materials are freely available [here](https://github.com/infiniteopt/
 
 To date, I have taught this course at the University of Wisconsin-Madison, Carnegie Mellon University, and in Busan, South Korea.
 
-# Short Course on Euler Methods
-I have put together a short course on introductory numerical methods for simulating ordinary differential equations via Euler methods.
+# Short Course on Euler Methods for Batch Reactors
+I have put together a short course on introductory numerical methods for simulating batch reactors via Euler methods.
 
 <ul class="actions">
 	<li><a href="/files/euler_syllabus.html" class="button icon fa-file">Syllabus</a></li>
