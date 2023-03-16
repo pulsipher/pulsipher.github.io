@@ -12,7 +12,7 @@ banner_color: style1
         <!-- <header class="major">
 			<h2>Joshua Pulsipher</h2>
 		</header> -->
-		<p><span class="image left"><img src="{% link assets/images/profile.png %}" alt="" /></span>I am post-doctoral researcher in chemical engineering at Carnegie Mellon University specializing in data-science and decision-making under uncertainty to tackle high-impact engineering challenges in effort to do my small part in making the world a better place to live. I have conducted academic research and teaching over the past 10 years across a variety of instituions. I currently work with Professors <a href="http://allthingsoptimal.com/">Carl Laird</a> and <a href="http://egon.cheme.cmu.edu/">Ignacio Grossmann</a> in developing methods in process systems engineering to tackle applications in energy systems, rare-earth element recovery, and more. To date, my accomplishments include 13 completed scholarly publications, 1 pending patent, 5 software products, contributing to proposals totaling $698K in funding, 33+ presentations/seminars, teaching 6 courses, and my network of 27+ collaborators in academia, national laboratories, and industry.</p>
+		<p><span class="image left"><img src="{% link assets/images/profile.png %}" alt="" /></span>I am post-doctoral researcher in chemical engineering at Carnegie Mellon University and an incoming assistant professor at the University of Waterloo specializing in data-science and decision-making under uncertainty to tackle high-impact engineering challenges in effort to do my small part in making the world a better place to live. I have conducted academic research and teaching over the past 10 years across a variety of instituions. I currently work with Professors <a href="http://allthingsoptimal.com/">Carl Laird</a> and <a href="http://egon.cheme.cmu.edu/">Ignacio Grossmann</a> in developing methods in process systems engineering to tackle applications in energy systems, rare-earth element recovery, and more. To date, my accomplishments include 13 completed scholarly publications, 1 pending patent, 5 software products, contributing to proposals totaling $698K in funding, 33+ presentations/seminars, teaching 6 courses, and my network of 27+ collaborators in academia, national laboratories, and industry.</p>
         <ul class="actions">
 			<li><a href="files/cv.html" class="button icon fa-file">Full CV</a></li>
 		</ul>
@@ -24,6 +24,7 @@ banner_color: style1
 		</ul>
         <h2>Research Experience</h2>
         <ul>
+            <li><b>Assistant Professor</b>, <i>Chemical Engineering, University of Waterloo, Waterloo, ON, Canada</i> (Starting July 2023)</li>
             <li><b>Post-Doctoral Associate</b>, <i>Chemical Engineering, Carnegie Mellon University, Pittsburgh, PA, USA</i> (2022-Present)</li>
 			<li><b>Graduate Research Assistant</b>, <i>Chemical and Biological Engineering, University of Wisconsin-Madison, Madison, WI, USA</i> (2017-2022)</li>
 			<li><b>Intern</b>, <i>Differentiating Technologies, ExxonMobil Research and Engineering, Spring, TX, USA</i> (2020)</li>
@@ -52,6 +53,7 @@ banner_color: style1
 		</ul>
         <h2>Awards</h2>
         <ul>
+            <li><b>Travel Award</b>, Foundations of Computer Aided Process Operations / Chemical Process Control (2023)</li>
             <li><b>Plenary Speaker</b>, Computing & Systems Technology Division Plenary Session of the AICHE Annual Meeting (2022)</li>
 			<li><b>Undergraduate Research Fellowship</b>, National Science Foundation (2016)</li>
             <li><b>Full Academic Scholarship</b>, Brigham Young University (2013 – 2017)</li>
@@ -64,8 +66,10 @@ banner_color: style1
         <p>Please visit <a href="publications.html"> the publication page</a>.</p>
         <h2>Select Presentations/Seminars</h2>
         <ul>
-            <!-- <li>"Optimization under Uncertainty: From Data to Models to Decision-Making", <i>Rensselaer Polytechnic Institute Chemical and Biological Engineering Department Seminar</i>, Troy, NY (2023)</li>
-            <li>"Optimization under Uncertainty: From Data to Models to Decision-Making", <i>University of Waterloo Chemical Engineering Department Seminar</i>, Waterloo, Canada (2023)</li> -->
+            <li>"Stochastic Programming Inspired Modeling Techniques for Shaping Dynamic Trajectories", <i>IEEE TC Process Control Online Seminar Series</i>, Online (2023)</li>
+            <li>"Optimization under Uncertainty: From Data to Models to Decision-Making", <i>University of South Florida Chemical, Biological, and Materials Engineering Department Seminar</i>, Tampa, FL (2023)</li>
+            <li>"Optimization under Uncertainty: From Data to Models to Decision-Making", <i>Rensselaer Polytechnic Institute Chemical and Biological Engineering Department Seminar</i>, Troy, NY (2023)</li>
+            <li>"Optimization under Uncertainty: From Data to Models to Decision-Making", <i>University of Waterloo Chemical Engineering Department Seminar</i>, Waterloo, Canada (2023)</li>
             <li>"An Introduction to Process Systems Engineering with Applications in Energy and Disease Control", <i>University International Seminar at Universidad Nacional Micaela Bastidas de Apurímac</i>, Apurímac, Peru (2022)</li>
             <li>"Event Constrained Optimization", <i>The American Institute of Chemical Engineering (AICHE) Annual Meeting. Computing & Systems Technology Division Plenary</i>, Phoenix, AZ, USA (2022)</li>
             <li>"Modeling Infinite-Dimensional Optimization Problems with InfiniteOpt.jl", <i>UW-Madison Chemical and Biological Engineering Computational Seminar Series</i>, Madison, WI, USA (2022)</li>

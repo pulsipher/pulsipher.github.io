@@ -10,7 +10,7 @@ banner_color: style4
 
 # Dissertations
 <ol reversed>
-    <li><b>Pulsipher, J. L.</b> (Feb. 2022). “Infinite-Dimensional Optimization: Modeling Abstractions and Software”. PhD thesis. University of Wisconsin-Madison.</li>
+    <li><b>Pulsipher, J. L.</b> (Feb. 2022). “Infinite-Dimensional Optimization: Modeling Abstractions and Software”. PhD thesis. University of Wisconsin-Madison.</li> <a href="https://www.proquest.com/dissertations-theses/infinite-dimensional-optimization-modeling/docview/2626931431/se-2"><b>dissertation</b></a></li>
 </ol>
 
 # Book Chapters
