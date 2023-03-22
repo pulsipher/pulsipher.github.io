@@ -17,14 +17,14 @@ banner_color: style1
 			<li><a href="files/cv.html" class="button icon fa-file">Full CV</a></li>
 		</ul>
         <h2>Education</h2>
-        <span class="image left">
-        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8727ef72-864d-45b7-9413-0bfbc6a438b5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-        </span>
         <ul>
             <li><b>Postdoc in Chemical Engineering</b>, <i>Carnegie Mellon University, Pittsburgh, PA, USA</i> (2022-Present)<br/>Advisors: Professors Carl Laird and Ignacio Grossmann</li>
 			<li><b>Ph.D. in Chemical and Biological Engineering</b>, <i>University of Wisconsin-Madison, Madison, WI, USA</i> (2017-2022)<br/>Advisor: Professor Victor Zavala</li>
 			<li><b>B.Sc. in Chemical Engineering</b>, <i>Brigham Young University, Provo, UT, USA</i> (2012-2017)<br/> Advisor: Professor John Hedengren</li>
 		</ul>
+        <span class="image right">
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8727ef72-864d-45b7-9413-0bfbc6a438b5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+        </span>
         <!-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8727ef72-864d-45b7-9413-0bfbc6a438b5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
         <h2>Research Experience</h2>
         <ul>
