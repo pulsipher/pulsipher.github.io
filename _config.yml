@@ -1,18 +1,18 @@
 # site settings
 title: Pulsipher
 subtitle: Info
-email: pulsipher@cmu.edu
-description: Post-Doctoral Chemical Engineer
+email: pulsipher@uwaterloo.ca
+description: Assistant Professor of Chemical Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://pulsipher.github.io # the base hostname & protocol for your site
 author: pulsipher
-university: Carnegie Mellon University
-room: 4200 Doherty Hall
-street_address: 5000 Forbes Avenue
-city: Pittsburgh
-state: PA
-zip_code: 15213
-country: USA
+university: University of Waterloo
+room: Engineering 6
+street_address: 200 University Avenue West
+city: Waterloo
+state: ON
+zip_code: N2L 3G1
+country: Canada
 formspreeEndpoint: https://formspree.io/f/xaykpvzo
 branch: master
 repo: pulsipher/pulsipher.github.io
