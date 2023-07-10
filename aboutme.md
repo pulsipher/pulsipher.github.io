@@ -12,7 +12,7 @@ banner_color: style1
         <!-- <header class="major">
 			<h2>Joshua Pulsipher</h2>
 		</header> -->
-		<p><span class="image left"><img src="{% link assets/images/profile.png %}" alt="" /></span>I am post-doctoral researcher in chemical engineering at Carnegie Mellon University and an incoming assistant professor at the University of Waterloo specializing in data-science and decision-making under uncertainty to tackle high-impact engineering challenges in effort to do my small part in making the world a better place to live. I have conducted academic research and teaching over the past 10 years across a variety of instituions. I currently work with Professors <a href="http://allthingsoptimal.com/">Carl Laird</a> and <a href="http://egon.cheme.cmu.edu/">Ignacio Grossmann</a> in developing methods in process systems engineering to tackle applications in energy systems, rare-earth element recovery, and more. To date, my accomplishments include 13 completed scholarly publications, 1 pending patent, 5 software products, contributing to proposals totaling $698K in funding, 33+ presentations/seminars, teaching 6 courses, and my network of 27+ collaborators in academia, national laboratories, and industry.</p>
+		<p><span class="image left"><img src="{% link assets/images/profile.png %}" alt="" /></span>I am an assistant professor of chemical engineering at the University of Waterloo specializing in data-science and decision-making under uncertainty to tackle high-impact engineering challenges in effort to do my small part in making the world a better place to live. I have conducted academic research and teaching over the past 10 years across a variety of instituions. To date, my accomplishments include 13 completed scholarly publications, 1 pending patent, 5 software products, contributing to proposals totaling $698K in funding, 33+ presentations/seminars, teaching 6 courses, and my network of 27+ collaborators in academia, national laboratories, and industry.</p>
         <ul class="actions">
 			<li><a href="files/cv.html" class="button icon fa-file">Full CV</a></li>
 		</ul>
@@ -21,14 +21,14 @@ banner_color: style1
         <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8727ef72-864d-45b7-9413-0bfbc6a438b5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
         </span>
         <ul>
-            <li><b>Postdoc in Chemical Engineering</b>, <i>Carnegie Mellon University, Pittsburgh, PA, USA</i> (2022-Present)<br/>Advisors: Professors Carl Laird and Ignacio Grossmann</li>
+            <li><b>Postdoc in Chemical Engineering</b>, <i>Carnegie Mellon University, Pittsburgh, PA, USA</i> (2022-2023)<br/>Advisors: Professors Carl Laird and Ignacio Grossmann</li>
 			<li><b>Ph.D. in Chemical and Biological Engineering</b>, <i>University of Wisconsin-Madison, Madison, WI, USA</i> (2017-2022)<br/>Advisor: Professor Victor Zavala</li>
 			<li><b>B.Sc. in Chemical Engineering</b>, <i>Brigham Young University, Provo, UT, USA</i> (2012-2017)<br/> Advisor: Professor John Hedengren</li>
 		</ul>
         <h2>Research Experience</h2>
         <ul>
-            <li><b>Assistant Professor</b>, <i>Chemical Engineering, University of Waterloo, Waterloo, ON, Canada</i> (Starting July 2023)</li>
-            <li><b>Post-Doctoral Associate</b>, <i>Chemical Engineering, Carnegie Mellon University, Pittsburgh, PA, USA</i> (2022-Present)</li>
+            <li><b>Assistant Professor</b>, <i>Chemical Engineering, University of Waterloo, Waterloo, ON, Canada</i> (2023-Present)</li>
+            <li><b>Post-Doctoral Associate</b>, <i>Chemical Engineering, Carnegie Mellon University, Pittsburgh, PA, USA</i> (2022-2023)</li>
 			<li><b>Graduate Research Assistant</b>, <i>Chemical and Biological Engineering, University of Wisconsin-Madison, Madison, WI, USA</i> (2017-2022)</li>
 			<li><b>Intern</b>, <i>Differentiating Technologies, ExxonMobil Research and Engineering, Spring, TX, USA</i> (2020)</li>
             <li><b>Intern</b>, <i>Optimization and Control, Pacific Northwest National Laboratory, Richland, WA, USA</i> (2019)</li>

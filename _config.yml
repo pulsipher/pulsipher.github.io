@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://pulsipher.github.io # the base hostname & protocol for your site
 author: pulsipher
 university: University of Waterloo
-room: Engineering 6
+room: Engineering 6, Room 5008
 street_address: 200 University Avenue West
 city: Waterloo
 state: Ontario
@@ -17,6 +17,7 @@ formspreeEndpoint: https://formspree.io/f/xaykpvzo
 branch: master
 repo: pulsipher/pulsipher.github.io
 google_analytics: G-MCGJLE9DXE
+phone: +1 (519) 888-4567 ext. 42290
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
