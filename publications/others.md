@@ -20,7 +20,7 @@ banner_color: style4
 
 # Patents
 <ol reversed>
-    <li>Kadam, J. V., Georgiou, A. T., Sheth, K. R., Li, W., Onel, O., and <b>Pulsipher, J. L.</b> (Dec. 2020). “Systems and Methods of Monitoring and Controlling an Industrial Process”. U.S. Patent Application 17/126151.</li>
+    <li>Kadam, J. V., Georgiou, A. T., Sheth, K. R., Li, W., Onel, O., and <b>Pulsipher, J. L.</b> (Nov. 2022). “Systems and Methods of Monitoring and Controlling an Industrial Process”. U.S. Patent 11513496. <a href="https://patents.google.com/patent/US11513496B2/en?oq=11513496"><b>patent</b></a></li>
 </ol>
 
 # News Articles
