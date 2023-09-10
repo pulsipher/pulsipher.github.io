@@ -5,7 +5,7 @@ description: 'Currently accepting applications for student positions.'
 image: assets/images/hiring.jpg
 ---
 
-Interested in developing computational tools to make the world a better place to live? Consider applying to join my group as a master's or PhD student. Before applying please review <a href="research.html">my research page</a> to see if my group's research focus is a good fit for you.
+Interested in developing computational tools to make the world a better place to live? Consider applying to join my group as a master's or PhD student. Before applying please review <a href="../research.html">my research page</a> to see if my group's research focus is a good fit for you.
 
 I am seeking students with significant interest in mathematics, engineering, and computer programming that are excited about employing these fundamentals to solve real-world decision-making problems. The current search is for students that can start in 2024. Required qualifications include:
 - A bachelor's degree in chemical engineering (or equivalent) completed no later than summer 2024
