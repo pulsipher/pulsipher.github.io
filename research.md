@@ -10,10 +10,10 @@ banner_color: style5
 <!-- One -->
 <section id="overview">
 	<div class="inner">
+		<center><iframe width="560" height="315" src="https://www.youtube.com/embed/TQoNMl5UWH8?si=AB232JS3Yz1CQEEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 		<header class="major">
 			<h2>My Vision</h2>
 		</header>
-		<center><iframe width="560" height="315" src="https://www.youtube.com/embed/TQoNMl5UWH8?si=AB232JS3Yz1CQEEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 		<p>My research in <b>process systems engineering</b> develops computational methods in <b>data-science</b> and <b>decision-making under uncertainty</b> to tackle <b>environmental, societal, and sustainability challenges</b> in engineering and science. Furthermore, I operate at the intersection of chemical engineering, mathematics/statistics, and computer science to drive an open-source <b>software-accelerated research</b> paradigm that expedites scientific discoveries and makes them broadly accessible. </p>
 		<span class="image fit"><img src="{% link assets/images/research_overview.png %}" alt="" /></span>
 		<p>Past, ongoing, and proposed projects are provided below.</p>
