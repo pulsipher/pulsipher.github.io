@@ -18,7 +18,7 @@ banner_color: style5
 		<span class="image fit"><img src="{% link assets/images/research_overview.png %}" alt="" /></span>
 		<p>Past, ongoing, and proposed projects are provided below.</p>
 		<ul class="actions">
-		<li><a href="files/research.html" class="button icon fa-file">Research Statement</a></li>
+		<!-- <li><a href="files/research.html" class="button icon fa-file">Research Statement</a></li> -->
 	</ul>
 	</div>
 </section>
@@ -39,91 +39,6 @@ banner_color: style5
 				<p>Current wildfire management practices struggle to cope with the increased frequency and severity of fires in recent years. We seek to promote sustainable wildfire management by incorporating high-fidelity data-driven models that capture complex multi-scale behavior into a rigorous decision-making framework.</p>
 				<ul class="actions">
 					<li><a href="research/wildfire.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section id="compvis">
-		<a href="research/compvis.html" class="image">
-			<img src="{% link assets/images/compvis_sensor.png %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Computer Vision for Process Control</h3>
-				</header>
-				<p><i>Ongoing Project</i></p>
-				<p>Computer vision aided process control architecture is increasingly used in industy, but significant challenges to widespread deployment include preparing datasets, validating candidate sensor configuration designs, and accurately monitoring sensor performance in real-time. We plan to tackle these challenges by developing a tailored modeling/simulation environment to engineer robust computer vision sensors that we can deploy with confidence.</p>
-				<ul class="actions">
-					<li><a href="research/compvis.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section id="energy">
-		<a href="research/energy.html" class="image">
-			<img src="{% link assets/images/power_lines.jpg %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Resilient Energy Infrastructure</h3>
-				</header>
-				<p><i>Past Project</i></p>
-				<p>Rare, high-impact events (e.g., extreme weather, international conflicts) can inflict severe disruption/damage to energy infrastructure. Mathematical strategies are needed to characterize the effect of rare events on energy infrastructure such that we can economically hedge against catastrophic failures. My research has focused on developing frameworks for assessing and designing the flexibiity and reliability of critical infrastructure networks (e.g., power grids).</p>
-				<ul class="actions">
-					<li><a href="research/energy.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section id="ree">
-		<a href="research/ree.html" class="image">
-			<img src="{% link assets/images/ree.png %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sustainable Rare-Earth Element Supply Chains</h3>
-				</header>
-				<p><i>Proposed Project</i></p>
-				<p>Establishing a sustainable and economically viable domestic rare-earth element and critical material (REE-CM) supply chain is a high priority to industry and the U.S. government, and is essential to avoid disruptions in manufacturing key technological products (e.g., batteries, wind turbines). We propose to create a rigorous modeling and decision-making framework to design REE-CM infrastructure and supply chains.</p>
-				<ul class="actions">
-					<li><a href="research/ree.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section id="wastewater">
-		<a href="research/wastewater.html" class="image">
-			<img src="{% link assets/images/acid_mine.jpg %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Optimal Rare-Earth Element Recovery Wastewater Networks</h3>
-				</header>
-				<p><i>Ongoing Project</i></p>
-				<p>Industrial wastewaters (e.g., produced water from oil/gas production and acid mine runoff) are often prohibitively expense to fully treat to mitigate environmental impact and reuse. However, these wastewater streams can contain appreciable amounts of valueable rare-earth elements and critical materials (REE-CMs). We are actively collaborating with project PARETO at NETL to develop a decision-making framework to explore opportunities for wastewater treatment and reuse when REE-CM recovery is taken into account.</p>
-				<ul class="actions">
-					<li><a href="research/wastewater.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section id="disease">
-		<a href="research/disease.html" class="image">
-			<img src="{% link assets/images/virus.png %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Disease Control and Analysis</h3>
-				</header>
-				<p><i>Ongoing Project</i></p>
-				<p>Recent disease outbreaks (e.g., Covid-19) have highlighted the need for enhanced analysis and modeling of disease spread to better inform public policy on effective mitigation measures. My research has developed scalable methods to effectively analyze disease behavior with models that can be used to optimally inform disease control measures.</p>
-				<ul class="actions">
-					<li><a href="research/disease.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -154,7 +69,7 @@ banner_color: style5
 				<header class="major">
 					<h3>Nueral Operator Surrogates</h3>
 				</header>
-				<p><i>Proposed Project</i></p>
+				<p><i>Ongoing Project</i></p>
 				<p>Neural operator networks are the state-of-the-art for learning partial differential equation systems (e.g., complex turbulent flows). These data-driven models have great potential for embedding high-fidelity space-time models in decision-making formulations that would otherwise be intractable. We plan to pursue this opportunity and develop methods to pioneer the incorporation of neural operator surrogates in optimization problems.</p>
 				<ul class="actions">
 					<li><a href="research/neuralops.html" class="button">Learn more</a></li>
@@ -175,6 +90,91 @@ banner_color: style5
 				<p>Random field theory provides a powerful mathematical framework for characterizing uncertainty over space-time. This enables us to better capture real-world infinite-dimensiional systems that often exhibit random phenomena. We have established and are actively developing a framework which we call random field optimization that incorporates random field uncertainty into decision-making problems.</p>
 				<ul class="actions">
 					<li><a href="research/rfo.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section id="compvis">
+		<a href="research/compvis.html" class="image">
+			<img src="{% link assets/images/compvis_sensor.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Computer Vision for Process Control</h3>
+				</header>
+				<p><i>Past Project</i></p>
+				<p>Computer vision aided process control architecture is increasingly used in industy, but a significant challenge to widespread deployment is accurately monitoring sensor performance in real-time. We propose the SAFE-OCC framework to tackle this challenge and deploy these sensors with confidence.</p>
+				<ul class="actions">
+					<li><a href="research/compvis.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section id="energy">
+		<a href="research/energy.html" class="image">
+			<img src="{% link assets/images/power_lines.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Resilient Energy Infrastructure</h3>
+				</header>
+				<p><i>Past Project</i></p>
+				<p>Rare, high-impact events (e.g., extreme weather, international conflicts) can inflict severe disruption/damage to energy infrastructure. Mathematical strategies are needed to characterize the effect of rare events on energy infrastructure such that we can economically hedge against catastrophic failures. My research has focused on developing frameworks for assessing and designing the flexibiity and reliability of critical infrastructure networks (e.g., power grids).</p>
+				<ul class="actions">
+					<li><a href="research/energy.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<!-- <section id="ree">
+		<a href="research/ree.html" class="image">
+			<img src="{% link assets/images/ree.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Sustainable Rare-Earth Element Supply Chains</h3>
+				</header>
+				<p><i>Past Project</i></p>
+				<p>Establishing a sustainable and economically viable domestic rare-earth element and critical material (REE-CM) supply chain is a high priority to industry and the U.S. government, and is essential to avoid disruptions in manufacturing key technological products (e.g., batteries, wind turbines). We propose to create a rigorous modeling and decision-making framework to design REE-CM infrastructure and supply chains.</p>
+				<ul class="actions">
+					<li><a href="research/ree.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section> -->
+	<section id="wastewater">
+		<a href="research/wastewater.html" class="image">
+			<img src="{% link assets/images/acid_mine.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Optimal Rare-Earth Element Recovery Wastewater Networks</h3>
+				</header>
+				<p><i>Past Project</i></p>
+				<p>Industrial wastewaters (e.g., produced water from oil/gas production and acid mine runoff) are often prohibitively expense to fully treat to mitigate environmental impact and reuse. However, these wastewater streams can contain appreciable amounts of valueable rare-earth elements and critical materials (REE-CMs). In collaboration with NETL, we helped develop a decision-making framework to explore opportunities for wastewater treatment and reuse when REE-CM recovery is taken into account.</p>
+				<ul class="actions">
+					<li><a href="research/wastewater.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section id="disease">
+		<a href="research/disease.html" class="image">
+			<img src="{% link assets/images/virus.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Disease Control and Analysis</h3>
+				</header>
+				<p><i>Past Project</i></p>
+				<p>Recent disease outbreaks (e.g., Covid-19) have highlighted the need for enhanced analysis and modeling of disease spread to better inform public policy on effective mitigation measures. My research has developed scalable methods to effectively analyze disease behavior with models that can be used to optimally inform disease control measures.</p>
+				<ul class="actions">
+					<li><a href="research/disease.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

@@ -13,7 +13,7 @@ Many systems in engineering and science are modeled using variables that live on
 
 <b>Random field theory</b> provides a powerful mathematical abstraction for characterizing uncertainty over space-time. Random fields generalize of the stochastic processes and Gaussian processes that are at the forefront of current research in the fields of spatio-temporal modeling, machine learning, topological data analysis, and Bayesian optimization. Here, application areas have included functional brain imaging, computer-generated imagery, weather forecasting, structural topological design, and robotic modeling. However, random field theory has not been incorporated into optimization theory. 
 
-# My Innovation
+# Innovating Decision-Making
 <img src="../assets/images/rfo.png" style="max-width:900px;width:100%">
 
 Using my unifying abstraction, I proposed a new optimization framework called <b>random field optimization</b> that incorporates random field uncertainty into mathematical decision-making problems. This enables us to better capture <b>real-world behavior</b> and tackle emergent applications. Building upon this foundation, we will develop tractable <b>high-fidelity solution</b> approaches by potentially adapting PDE-constrained optimization decomposition techniques. 
