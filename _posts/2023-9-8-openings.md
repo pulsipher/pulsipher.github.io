@@ -10,8 +10,9 @@ Interested in developing computational tools to make the world a better place to
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/TQoNMl5UWH8?si=AB232JS3Yz1CQEEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 I am seeking students with significant interest in mathematics, engineering, and computer programming that are excited about employing these fundamentals to solve real-world decision-making problems. The current search is for students that can start in 2024. Required qualifications include:
+- Genuine excitement for the research focus of the group
 - A bachelor's degree in chemical engineering (or similar) completed no later than summer 2024
-- A competitive academic GPA (i.e, 75% average or better)
+- A competitive academic GPA (i.e, 75% average or better for every degree)
 - High proficiency in English (i.e., 7+ IELTS score or equivalent)
 - Comply with all program requirements set by UWaterloo (please review [the department's graduate program webpage](https://uwaterloo.ca/chemical-engineering/future-graduate-students))
 
@@ -20,10 +21,12 @@ Preferred qualifications include:
 - Proficiency with computer programming (e.g., python, Julia)
 - Excellent technical writing ability
 
+Please note that the primary focus of our research group is NOT machine learning, but rather on applied constrained optimization (i.e., decision-making) techniques which can leverage data-driven models to improve our modeling capabilities for real-world systems.
+
 To apply, please email [pulsipher@uwaterloo.ca](mailto:pulsipher@uwaterloo.ca) with the following information/format:
 - Subject line: "Student Application for MASc/PhD Position" (selecting MASc or PhD as appropriate)
-- Email body: *Briefly* introduce yourself and summarize why you would like to join my group
-- Attachments: CV/resume, academic transcript(s), a technical writing sample (e.g., an article or report) if available
+- Email body: **Briefly** introduce yourself and summarize why you would like to join my group
+- Attachments: CV/resume, academic transcript for each degree held, a technical writing sample (e.g., an article or report) if available
 
 **Before applying make sure you meet the [minimum requirements](https://uwaterloo.ca/chemical-engineering/future-graduate-students).** Applications will be reviewed on a rolling basis. **Incomplete applications will not be considered.** Every application will be carefully reviewed, please do not send multiple emails. You may not receive a response immediately, but rest assured every application will be reviewed. 
 
