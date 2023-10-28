@@ -5,7 +5,7 @@ description: 'Currently accepting applications for student positions.'
 image: assets/images/hiring.jpg
 ---
 
-Interested in developing computational tools to make the world a better place to live? Consider applying to join my group as a master's or PhD student. There no current postdoc openings. Before applying please review <a href="/research.html">my research page</a> and my <a href="https://www.youtube.com/watch?v=TQoNMl5UWH8">recent video interview</a> (shown below) to see if my group's research focus is a good fit for you.
+Interested in developing computational tools to make the world a better place to live? Consider applying to join my group as a master's or PhD student. There are no current postdoc openings. Before applying please review <a href="/research.html">my research page</a> and my <a href="https://www.youtube.com/watch?v=TQoNMl5UWH8">recent video interview</a> (shown below) to see if my group's research focus is a good fit for you.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/TQoNMl5UWH8?si=AB232JS3Yz1CQEEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
