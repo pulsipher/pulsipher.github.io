@@ -9,7 +9,7 @@ Interested in developing computational tools to make the world a better place to
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/TQoNMl5UWH8?si=AB232JS3Yz1CQEEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-I am seeking students with significant interest in mathematics, engineering, and computer programming that are excited about employing these fundamentals to solve real-world decision-making problems. The current search is for students that can start in 2024. Required qualifications include:
+I am seeking students with significant interest in mathematics, chemical engineering, and computer programming that are excited about employing these fundamentals to solve real-world decision-making problems. The current search is for students that can start in 2024. Required qualifications include:
 - Genuine excitement for the research focus of my group
 - A bachelor's degree in chemical engineering (or similar) completed no later than summer 2024
 - A competitive academic GPA (minimum requirement is an 80% average for every degree)
