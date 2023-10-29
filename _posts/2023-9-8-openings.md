@@ -12,7 +12,7 @@ Interested in developing computational tools to make the world a better place to
 I am seeking students with significant interest in mathematics, engineering, and computer programming that are excited about employing these fundamentals to solve real-world decision-making problems. The current search is for students that can start in 2024. Required qualifications include:
 - Genuine excitement for the research focus of my group
 - A bachelor's degree in chemical engineering (or similar) completed no later than summer 2024
-- A competitive academic GPA (i.e, 75% average or better for every degree)
+- A competitive academic GPA (minimum requirement is an 80% average for every degree)
 - High proficiency in English (i.e., 7+ IELTS score (or equivalent) or native speaker)
 - Comply with all program requirements set by UWaterloo (please review [the department's graduate program webpage](https://uwaterloo.ca/chemical-engineering/future-graduate-students))
 
