@@ -18,17 +18,20 @@ I am seeking students with significant interest in mathematics, engineering, and
 
 Preferred qualifications include:
 - Computational research experience, especially pertaining to optimization and data science
-- Proficiency with computer programming (e.g., python, Julia)
+- Strong background in mathematics
+- Proficiency with computer programming (e.g., Python, Julia)
 - Excellent technical writing ability
 
-Please note that the primary focus of our research group is NOT machine learning, but rather on applied constrained optimization (i.e., decision-making) techniques which can leverage data-driven models to improve our modeling capabilities for real-world systems.
+Please note that the primary focus of our research group is NOT machine learning, but rather on optimization (i.e., decision-making) techniques which can leverage data-driven models to improve our modeling capabilities for real-world systems.
 
 To apply, please email [pulsipher@uwaterloo.ca](mailto:pulsipher@uwaterloo.ca) with the following information/format:
 - Subject line: "Student Application for MASc/PhD Position" (selecting MASc or PhD as appropriate)
 - Email body: **Briefly** introduce yourself and summarize why you would like to join my group
-- Attachments: CV/resume, academic transcript for each degree, English proficiency test results (if applicable), and a technical writing sample (e.g., an article or report) if available
+- Attachments (PDFs only): CV/resume, academic transcript for each degree, English proficiency test results (if applicable), and a technical writing sample (e.g., an article or report) if available
 
-**Before applying make sure you meet the [minimum requirements](https://uwaterloo.ca/chemical-engineering/future-graduate-students).** Applications will be reviewed on a rolling basis. **Incomplete applications will not be considered.** Every application will be carefully reviewed, please do not send multiple emails. You may not receive a response immediately, but rest assured every application will be reviewed. 
+**Before applying make sure you meet the minimum requirements described above and [those set by UWaterloo](https://uwaterloo.ca/chemical-engineering/future-graduate-students).** Applications will be reviewed on a rolling basis. **Incomplete applications will not be considered.** Every application will be carefully reviewed, please do not send multiple emails. You may not receive a response immediately, but rest assured every application will be reviewed. 
+
+Thanks for taking the time to read this all the way to the end!
 
 <ul class="actions">
     <li><a href="/#launch" class="button next">Learn More</a></li>
