@@ -15,8 +15,8 @@ banner_color: style4
 		</header>
 		<p>Here are all my scholarly publications. To date these include:</p>
         <ul>
-		    <li>10 completed journal articles</li>
-            <li>4 completed peer-reviewed conference papers</li>
+		    <li>9 completed journal articles</li>
+            <li>7 completed peer-reviewed conference papers</li>
             <li>1 book chapter</li>
             <li>1 U.S. patent</li>
 		</ul>
