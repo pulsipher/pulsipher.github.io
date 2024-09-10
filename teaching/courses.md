@@ -7,6 +7,19 @@ nav-menu: false
 show_tile: false
 banner_color: style1
 ---
+# Process Optimization (CHE 521)
+An introduction to chemical process optimization. Model development and classification of optimization problems. Linear programming techniques, simplex algorithm, goal programming and barrier method, parametric sensitivity analysis and duality theory. Convex optimization, necessary and sufficient conditions for optimality for unconstrained and constrained problems. Mixed-integer programming. Trajectory optimization. Applications include optimization of heat exchanger networks, multistage separation processes, batch operations, process scheduling and chemical reactor networks.
+
+<ul class="actions">
+	<li><a href="https://outline.uwaterloo.ca/view/nra7dd" class="button icon fa-file">Outline</a></li>
+</ul>
+
+# Introduction to Process Control (CHE 341)
+Laplace transform techniques. Proportional-integral-derivative control. Frequency response methods. Stability analysis. Controller tuning. Process control simulation and computer control systems. Process identification.
+
+<ul class="actions">
+	<li><a href="https://outline.uwaterloo.ca/view/nzr3b6" class="button icon fa-file">Outline</a></li>
+</ul>
 
 # Chemical Process Modeling (CBE 255)
 At UW-Madison I co-instructed this course focusing on the computer programming course material. The course provides an integrative overview of how programming tools like MATLAB and python can be used to solve a wide variety of problems in chemical engineering. By the end of this course, students should be sufficiently familiar with programming to solve challenging numerical problems (e.g., batch reaction kinetics).
