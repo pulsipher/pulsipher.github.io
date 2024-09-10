@@ -36,16 +36,7 @@ The course materials are freely available [here](https://github.com/infiniteopt/
 - solving optimization problems in JuMP.jl and InfiniteOpt.jl,
 - and should have the resources they need to learn further.
 
-To date, I have taught this course at the University of Wisconsin-Madison, Carnegie Mellon University, Busan South Korea, Toronto Canada, and in the University of Waterloo.
-
-# Short Course on Euler Methods for Batch Reactors
-I have put together a short course on introductory numerical methods for simulating batch reactors via Euler methods.
-
-<ul class="actions">
-	<li><a href="/files/euler_syllabus.html" class="button icon fa-file">Syllabus</a></li>
-</ul>
-
-The course materials are freely available [here](https://github.com/pulsipher/eulercourse) on GitHub. 
+To date, I have taught this course at the University of Wisconsin-Madison, Carnegie Mellon University, Busan South Korea, Toronto Canada, and in the University of Waterloo. 
 
 <ul class="actions">
     <li><a href="/teaching.html#courses" class="button icon fa-arrow-left">Go back to Teaching Page</a></li>
