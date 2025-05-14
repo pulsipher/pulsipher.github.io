@@ -15,7 +15,8 @@ banner_color: style4
 
 # Book Chapters
 <ol reversed>
-    <li>Jiang, S., Qin, S., <b>Pulsipher, J. L.</b>, and Zavala, V. M. (May 2022). “Convoluational Neural Networks: Basic Concepts and Applications in Manufacturing”. <i>Artificial Intelligence in Manufacturing</i>. Ed. by M. Soroush and R. Braatz. <i>In Press</i>. <a href="https://doi.org/10.48550/arXiv.2210.07848"><b>chapter</b></a></li>
+    <li><b>Pulsipher, J. L.</b>, Cole, D. L., Jalving, J., and Zavala, V. M. (2025). “Optimization in Chemical and Biological Engineering Using Julia”. <i>Introduction to Software for Chemical Engineers.</i>. Ed. by M. Martin <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003472360-27/optimization-chemical-biological-engineering-using-julia-joshua-pulsipher-david-cole-jordan-jalving-victor-zavala"><b>chapter</b></a></li>
+    <li>Jiang, S., Qin, S., <b>Pulsipher, J. L.</b>, and Zavala, V. M. (2024). “Convoluational Neural Networks: Basic Concepts and Applications in Manufacturing”. <i>Artificial Intelligence in Manufacturing</i>. Ed. by M. Soroush and R. Braatz.. <a href="https://doi.org/10.1016/B978-0-323-99134-6.00007-4"><b>chapter</b></a></li>
 </ol>
 
 # Patents
