@@ -7,8 +7,6 @@ nav-menu: false
 show_tile: false
 banner_color: style1
 ---
-# Process Optimization (CHE 521)
-An introduction to chemical process optimization. Model development and classification of optimization problems. Linear programming techniques, simplex algorithm, barrier method, parametric sensitivity analysis and duality theory. Convex optimization, necessary and sufficient conditions for optimality for unconstrained and constrained problems. Mixed-integer programming. Trajectory optimization. Applications include optimization of heat exchanger networks, multistage separation processes, batch operations, process scheduling and chemical reactor networks.
 
 # Introductory Machine Learning and Artifical Intelligence for Chemical Engineers
 At UWaterloo, I am piloting this introductory course on how to support analysis and modelling using data-driven methods from machine learning and data science.
