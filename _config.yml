@@ -43,4 +43,6 @@ exclude:
 - "*.gemspec"
 - LICENSE.md
 - CONTRIBUTING.md
-- README.md 
+- README.md
+- diversity.md
+- elements.md
