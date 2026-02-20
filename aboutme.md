@@ -38,7 +38,7 @@ banner_color: style1
         <p>Please see <a href="research.html">my research page</a> for a detailed overview of my research vision and activities. Common focus areas are listed below:</p>
         <ul>
             <li>Decision-making under uncertainty (stochastic optimization, <a href="research/rfo.html">random field optimization</a>, etc.)</li>
-			<li>Data-science (<a href="research/neuralops.html">neural operators</a>, convolutional neural networks, constraint informed neural networks, etc.)</li>
+			<li>Machine learning (<a href="research/neuralops.html">neural operators</a>, convolutional neural networks, constraint informed neural networks, etc.)</li>
 			<li>Infinite-dimensional optimization (i.e., <a href="research/infiniteopt.html">InfiniteOpt</a>)</li>
             <li>Advanced control</li>
             <li><a href="research/compvis.html">Computer vision for process control</a></li>
@@ -46,12 +46,14 @@ banner_color: style1
             <li><a href="research/wildfire.html">Wildfire mitigation</a></li>
             <li><a href="research/energy.html">Energy systems</a></li>
             <li>Sustainable bioprocesses</li>
-
+            <li>Data analysis of complex space-time sesnor data</li>
+            <li>Scheduling under uncertainty</li>
+            <li>Design and control of HVAC ssytems for large indoor spaces</li>
 		</ul>
         <h2>Teaching</h2>
         <p>Please visit my <a href="teaching.html">my teaching page</a> for more information on my teaching experience and philosophy. For completeness, the courses I have taught are listed below:</p>
         <ul>
-            <li>Machine learning and artificial intelligence for chemical engineers</li>
+            <li>Introduction to machine learning and data science</li>
             <li>Numerical methods</li>
             <li>Introduction to optimization</li>
             <li>Process control</li>

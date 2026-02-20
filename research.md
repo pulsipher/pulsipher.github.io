@@ -2,7 +2,7 @@
 layout: page
 title: Research
 image: assets/images/research_idea.jpg
-description: 'Past, Present, and Planned Projects'
+description: 'Past and Present Projects'
 nav-menu: true
 banner_color: style5
 ---
@@ -10,13 +10,13 @@ banner_color: style5
 <!-- One -->
 <section id="overview">
 	<div class="inner">
-		<center><iframe width="560" height="315" src="https://www.youtube.com/embed/TQoNMl5UWH8?si=AB232JS3Yz1CQEEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+		<center><iframe width="560" height="315" src="https://www.youtube.com/embed/sTYsvVwHlG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 		<header class="major">
 			<h2>My Vision</h2>
 		</header>
 		<p>My research in <b>process systems engineering</b> develops computational methods in <b>machine learning</b> and <b>optimization</b> to tackle <b>environmental, societal, and sustainability challenges</b> in engineering and science. Furthermore, I operate at the intersection of chemical engineering, mathematics/statistics, and computer science to drive an open-source <b>software-accelerated research</b> paradigm that expedites scientific discoveries and makes them broadly accessible. </p>
 		<span class="image fit"><img src="{% link assets/images/research_overview.png %}" alt="" /></span>
-		<p>Past, ongoing, and proposed projects are provided below.</p>
+		<p>Past and ongoing projects are provided below (note this is only periodically updated).</p>
 		<ul class="actions">
 		<!-- <li><a href="files/research.html" class="button icon fa-file">Research Statement</a></li> -->
 	</ul>
@@ -26,7 +26,7 @@ banner_color: style5
 
 <!-- Two -->
 <section id="projects" class="spotlights">
-	<section id="wildfire">
+	<!-- <section id="wildfire">
 		<a href="research/wildfire.html" class="image">
 			<img src="{% link assets/images/control_burn.jpg %}" alt="" data-position="bottom center" />
 		</a>
@@ -42,7 +42,7 @@ banner_color: style5
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<section id="infiniteopt">
 		<a href="research/infiniteopt.html" class="image">
 			<img src="{% link assets/images/infiniteopt_discoveries.png %}" alt="" data-position="center center" />
@@ -53,14 +53,31 @@ banner_color: style5
 					<h3>Unifying Infinite-Dimensional Optimization</h3>
 				</header>
 				<p><i>Ongoing Project</i></p>
-				<p>Infinite-dimensional optimization encompassess a wide breadth of challenging decision-making problems that entail decisions indexed over continuous domains (e.g., uncertainty and/or space-time). Applications include REE-CM supply chains, process systems, climate modeling, microbial communities, and complex fluid flows. I have developed a unifying modeling abstraction for these problems that accelerates scientific descovery and makes these challenging problems accessible to diverse researchers.</p>
+				<p>Infinite-dimensional optimization encompassess a wide breadth of challenging decision-making problems that entail decisions indexed over continuous domains (e.g., uncertainty and/or space-time). Applications include process control, climate modeling, bio-manufacturing, and conditioning of large indoor spaces. We have developed a unifying modeling abstraction for these problems that accelerates scientific descovery and accelerates their solution on CPU and GPUs.</p>
 				<ul class="actions">
 					<li><a href="research/infiniteopt.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-	<section id="neuralops">
+	<section id="hpinn">
+		<a href="research/hpinn.html" class="image">
+			<img src="{% link assets/images/hpinn.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Hard Constrained Machine Learning Models</h3>
+				</header>
+				<p><i>Ongoing Project</i></p>
+				<p>Machine learning models such as neural networks have proven highly versatile in a wide variety of engineering applications. We are developing neural network models that guarantee constraint statisfaction, enabling us to embed domain knowledge via constraints that increase model robustness, reduce overfitting, and reduce reliance on large datasets. Moreover, we are developing software to efficiently train these models on GPU and embed them in large-scale optimization models that can be solved with rapid 2nd-order GPU solvers.  </p>
+				<ul class="actions">
+					<li><a href="research/hpinn.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<!-- <section id="neuralops">
 		<a href="research/neuralops.html" class="image">
 			<img src="{% link assets/images/fluid_flow.jpg %}" alt="" data-position="center center" />
 		</a>
@@ -76,7 +93,7 @@ banner_color: style5
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<section id="rfo">
 		<a href="research/rfo.html" class="image">
 			<img src="{% link assets/images/random_field.png %}" alt="" data-position="center center" />
@@ -86,7 +103,7 @@ banner_color: style5
 				<header class="major">
 					<h3>Random Field Optimization</h3>
 				</header>
-				<p><i>Ongoing Project</i></p>
+				<p><i>Past Project</i></p>
 				<p>Random field theory provides a powerful mathematical framework for characterizing uncertainty over space-time. This enables us to better capture real-world infinite-dimensiional systems that often exhibit random phenomena. We have established and are actively developing a framework which we call random field optimization that incorporates random field uncertainty into decision-making problems.</p>
 				<ul class="actions">
 					<li><a href="research/rfo.html" class="button">Learn more</a></li>

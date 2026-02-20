@@ -8,7 +8,7 @@ show_tile: false
 banner_color: style1
 ---
 
-# Introductory Machine Learning and Artifical Intelligence for Chemical Engineers
+# Introduction to Machine Learning and Data Science (CHE 500/523)
 At UWaterloo, I am piloting this introductory course on how to support analysis and modelling using data-driven methods from machine learning and data science.
 
 # Numerical Methods for Numerical Analysis and Design (CHE 322)

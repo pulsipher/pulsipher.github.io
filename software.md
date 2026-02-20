@@ -27,7 +27,7 @@ banner_color: style6
 					<h3>InfiniteOpt.jl</h3>
 				</header>
 				<p><i>A JuMP Extension for Infinite-Dimensional Optimization</i></p>
-				<p>InfiniteOpt.jl is a Julia package that implements my <a href="research/infiniteopt.html">unifying abstraction for infinite-dimensional optimization</a>. It provides a intuitive modeling language for stochastic, dynamic, and PDE-constrained optimization problems. Morover, easily extended to implement your cutting-edge techniques. We provide extensive documentation, tutorials, and a forum to get you started.</p>
+				<p>InfiniteOpt.jl is a Julia package that implements my <a href="research/infiniteopt.html">unifying abstraction for infinite-dimensional optimization</a>. It provides a intuitive modeling language for stochastic, dynamic, and PDE-constrained optimization problems. Morover, it leverages problem structure to accelerate solutions on CPU and GPU. We provide extensive documentation, tutorials, and a forum to get you started.</p>
 				<ul class="actions">
 					<li><a href="https://infiniteopt.github.io/InfiniteOpt.jl/stable/" class="button">Check it out</a></li>
 				</ul>
