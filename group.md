@@ -1,0 +1,53 @@
+---
+layout: page
+title: Group Members
+image: assets/images/group.jpg
+description: 'Research group members past and present'
+nav-menu: true
+banner_color: style5
+---
+
+<section id="People" class="spotlights">
+	<section id="JoshuaPulsipher">
+		<a href="aboutme.html" class="image">
+			<img src="{% link assets/profile.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Joshua Pulsipher</h3>
+				</header>
+				<p><i>Principle Investigator</i></p>
+				<p>Joshua is an assistant professor of Chemical Engineering at the University of Waterloo and leads the research group.</p>
+				<ul class="actions">
+					<li><a href="aboutme.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section id="Evelyn">
+		<a href="group/eveyln.html" class="image">
+			<img src="{% link assets/images/evelyn.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Eveyln Gondosiswanto</h3>
+				</header>
+				<p><i>MASc Student (Sept. 2024 to Present)</i></p>
+				<p>Eveyln is MASc student focusing on developing GPU accelerated optimization tools for infinite-dimensional optimization. </p>
+				<ul class="actions">
+					<li><a href="group/eveyln.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
+
+<section>
+	<div class="inner">
+		<ul class="actions">
+    		<li><a href="/#launch" class="button icon fa-arrow-left">Go back to launch page</a></li>
+		</ul>
+	</div>
+</section>

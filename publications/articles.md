@@ -9,7 +9,7 @@ banner_color: style4
 ---
 
 <ol reversed>
-    <li> Mazzadi, S., Lakhani, A., Gupta, V., Weckman, B., <b>Pulsipher, J. L.</b>, and Ricardez-Sandoval, L. (2026). “A Framework for High-Dimensional Fire Sensor Data Analysis”. <i>Under Review</i>. </li>
+    <li> Mazzadi, S., Lakhani, A., Gupta, V., Weckman, B., <b>Pulsipher, J. L.</b>, and Ricardez-Sandoval, L. (2026). “A Framework for High-Dimensional Fire Sensor Data Analysis”. <i>Fire Safety Journal</i>. <a href="https://doi.org/10.1016/j.firesaf.2026.104738"><b>paper</b></a> </li>
     <li> Roth, T., Mazzadi, S., <b>Pulsipher, J. L.</b>, and Ricardez-Sandoval, L. (2025). “Enhancing Sustainable Agriculture Through Optimized Polyculture Hydroponic Operating Strategies”. <i>Chemical Engineering and Processing-Process Intensification</i>. <a href="https://doi.org/10.1016/j.cep.2025.110446"><b>paper</b></a> </li>
     <li> González, L. D., <b>Pulsipher, J. L.</b>, Jiang, S., Soderstrom, T., and Zavala, V. M. (2025). “A Digital Twin Simulator of a Pastillation Process with Applications to Automatic Control based on Computer Vision”. <i>Computers & Chemical Engineering</i>. <a href="https://doi.org/10.1016/j.compchemeng.2025.109205"><b>paper</b></a> </li>
     <li> Gondosiswanto, E. and <b>Pulsipher, J. L.</b> (2025). “Advances to Modelling and Solving Infinite-Dimensional Optimization Problems in InfiniteOpt.jl”. <i>Digital Chemcial Engineering</i>. <a href="https://doi.org/10.1016/j.dche.2025.100236"><b>paper</b></a> </li>
