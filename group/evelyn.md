@@ -1,7 +1,7 @@
 ---
 layout: mdpage
-title: Eveyln Gondosiswanto
-image: assets/images/eveyln.png
+title: Evelyn Gondosiswanto
+image: assets/images/evelyn.jpg
 description: 'MASc Student (Sept. 2024 to Present)'
 nav-menu: false
 show_tile: false

@@ -26,8 +26,8 @@ banner_color: style5
 		</div>
 	</section>
 	<section id="Evelyn">
-		<a href="group/eveyln.html" class="image">
-			<img src="{% link assets/images/evelyn.png %}" alt="" data-position="center center" />
+		<a href="group/evelyn.html" class="image">
+			<img src="{% link assets/images/evelyn.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -37,7 +37,7 @@ banner_color: style5
 				<p><i>MASc Student (Sept. 2024 to Present)</i></p>
 				<p>Eveyln is MASc student focusing on developing GPU accelerated optimization tools for infinite-dimensional optimization. </p>
 				<ul class="actions">
-					<li><a href="group/eveyln.html" class="button">Learn more</a></li>
+					<li><a href="group/evelyn.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
