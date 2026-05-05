@@ -10,7 +10,7 @@ banner_color: style5
 <section id="People" class="spotlights">
 	<section id="JoshuaPulsipher">
 		<a href="aboutme.html" class="image">
-			<img src="{% link assets/profile.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/profile.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
