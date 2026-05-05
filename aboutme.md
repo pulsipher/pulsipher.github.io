@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image: assets/images/josh_banner.jpg
+image: assets/images/josh_banner.JPG
 description: An Introduction
 nav-menu: true
 banner_color: style1
@@ -12,7 +12,7 @@ banner_color: style1
         <!-- <header class="major">
 			<h2>Joshua Pulsipher</h2>
 		</header> -->
-		<p><span class="image left"><img src="{% link assets/images/profile.jpg %}" alt="" /></span>I am an assistant professor of Chemical Engineering at the University of Waterloo specializing in machine learning and decision-making under uncertainty to tackle high-impact engineering challenges in effort to do my small part in making the world a better place to live.</p>
+		<p><span class="image left"><img src="{% link assets/images/profile.JPG %}" alt="" /></span>I am an assistant professor of Chemical Engineering at the University of Waterloo specializing in machine learning and decision-making under uncertainty to tackle high-impact engineering challenges in effort to do my small part in making the world a better place to live.</p>
         <ul class="actions">
 			<li><a href="files/cv.html" class="button icon fa-file">Full CV</a></li>
 		</ul>
