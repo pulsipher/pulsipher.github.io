@@ -32,12 +32,12 @@ banner_color: style5
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Eveyln Gondosiswanto</h3>
+					<h3>Evelyn Gondosiswanto</h3>
 				</header>
 				<p><i>MASc Student (Sept. 2024 to Present)</i></p>
-				<p>Eveyln is MASc student focusing on developing GPU accelerated optimization tools for infinite-dimensional optimization. </p>
+				<p>My research is focused on developing GPU-accelerated tools for infinite-dimensional optimization, with a focus on model predictive control. </p>
 				<ul class="actions">
-					<li><a href="group/evelyn.html" class="button">Learn more</a></li>
+					<li><a href="https://linkedin.com/in/egondosi/" class="button">Profile</a></li>
 				</ul>
 			</div>
 		</div>
