@@ -26,18 +26,19 @@ banner_color: style5
 		</div>
 	</section>
 	<section id="Evelyn">
-		<a href="group/evelyn.html" class="image">
+		<a href="https://linkedin.com/in/egondosi/" class="image">
 			<img src="{% link assets/images/evelyn.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Eveyln Gondosiswanto</h3>
+					<h3>Evelyn Gondosiswanto</h3>
 				</header>
-				<p><i>MASc Student (Sept. 2024 to Present)</i></p>
-				<p>Eveyln is MASc student focusing on developing GPU accelerated optimization tools for infinite-dimensional optimization. </p>
+				<p><i>MASc Student (Sept 2024 to Present)</i></p>
+				<p>My research focuses on developing computational methods and tools for infinite-dimensional optimization, with interests including nonlinear model predictive control, generalized disjunctive programming and GPU-accelerated optimization. </p>
+				<p>Contact me at <a href="mailto:egondosi@uwaterloo.ca">egondosi@uwaterloo.ca</a></p>
 				<ul class="actions">
-					<li><a href="group/evelyn.html" class="button">Learn more</a></li>
+					<li><a href="https://linkedin.com/in/egondosi/" class="button">Profile</a></li>
 				</ul>
 			</div>
 		</div>
