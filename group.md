@@ -35,7 +35,7 @@ banner_color: style5
 					<h3>Evelyn Gondosiswanto</h3>
 				</header>
 				<p><i>MASc Student (Sept. 2024 to Present)</i></p>
-				<p>My research is focused on developing GPU-accelerated tools for infinite-dimensional optimization, with a focus on model predictive control. </p>
+				<p>My research involves developing GPU-accelerated tools for infinite-dimensional optimization, with applications in model predictive control. </p>
 				<ul class="actions">
 					<li><a href="https://linkedin.com/in/egondosi/" class="button">Profile</a></li>
 				</ul>
