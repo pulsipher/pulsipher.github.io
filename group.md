@@ -35,7 +35,7 @@ banner_color: style5
 					<h3>Evelyn Gondosiswanto</h3>
 				</header>
 				<p><i>MASc Student (Sept 2024 to Present)</i></p>
-				<p>My research focuses on developing computational methods and tools for infinite-dimensional optimization, with interests including nonlinear model predictive control, generalized disjunctive programming and GPU-accelerated optimization. </p>
+				<p>My research focuses on developing computational methods and tools for <a href="research/infiniteopt.html">infinite-dimensional optimization</a>, with interests including nonlinear model predictive control, <a href="https://doi.org/10.1016/j.dche.2025.100236">generalized disjunctive programming</a> and <a href="https://doi.org/10.1016/j.dche.2025.100236">GPU-accelerated optimization</a>. </p>
 				<p>Contact me at <a href="mailto:egondosi@uwaterloo.ca">egondosi@uwaterloo.ca</a></p>
 				<ul class="actions">
 					<li><a href="https://linkedin.com/in/egondosi/" class="button">Profile</a></li>
@@ -43,7 +43,7 @@ banner_color: style5
 			</div>
 		</div>
 	</section>
-		<section id="Shawn">
+	<section id="Shawn">
 		<a href="https://linkedin.com/in/shawn-benedict73" class="image">
 			<img src="{% link assets/images/shawn.jpg %}" alt="" data-position="center center" />
 		</a>
@@ -53,7 +53,7 @@ banner_color: style5
 					<h3>Shawn Benedict</h3>
 				</header>
 				<p><i>PhD Student (Sept 2025 to Present)</i></p>
-				<p>My research focuses on developing tools for incorporating environmental burdens as a key consideration in process design and proces intensification. I have a particular interest in life cycle assessments, superstructure optimization, and generalized disjunctive programming. </p>
+				<p>My research focuses on developing tools for incorporating environmental burdens as a key consideration in process design and process intensification. I have a particular interest in life cycle assessments, superstructure optimization, and generalized disjunctive programming. </p>
 				<p>Contact me at <a href="mailto:s2benedi@uwaterloo.ca">s2benedi@uwaterloo.ca</a></p>
 				<ul class="actions">
 					<li><a href="https://linkedin.com/in/shawn-benedict73/" class="button">Profile</a></li>
