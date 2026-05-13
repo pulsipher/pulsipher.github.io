@@ -43,6 +43,24 @@ banner_color: style5
 			</div>
 		</div>
 	</section>
+		<section id="Shawn">
+		<a href="https://linkedin.com/in/shawn-benedict73" class="image">
+			<img src="{% link assets/images/shawn.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Shawn Benedict</h3>
+				</header>
+				<p><i>PhD Student (Sept 2025 to Present)</i></p>
+				<p>My research focuses on developing tools for incorporating environmental burdens as a key consideration in process design and proces intensification. I have a particular interest in life cycle assessments, superstructure optimization, and generalized disjunctive programming. </p>
+				<p>Contact me at <a href="mailto:s2benedi@uwaterloo.ca">s2benedi@uwaterloo.ca</a></p>
+				<ul class="actions">
+					<li><a href="https://linkedin.com/in/shawn-benedict73/" class="button">Profile</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
 
 <section>
