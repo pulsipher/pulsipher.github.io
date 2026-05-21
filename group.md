@@ -25,6 +25,24 @@ banner_color: style5
 			</div>
 		</div>
 	</section>
+		<section id="Stefan">
+		<a href="https://linkedin.com/in/stefan-mazzadi" class="image">
+			<img src="{% link assets/images/stefan.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Stefan Mazzadi</h3>
+				</header>
+				<p><i>MASc Student (Sept 2024 to Present)</i></p>
+				<p>My research focuses on developing optimization-based production scheduling tools and decision-support systems for industrial manufacturing operations, with interests including generalized disjunctive programming, mixed-integer programming, and hierarchical multi-objective optimization. My broader work spans computational optimization across multiple domains, including contributions to event-constrained programming and sustainable agriculture through optimized hydroponic operating strategies. </p>
+				<p>Contact me at <a href="mailto:smazzadi@uwaterloo.ca">smazzadi@uwaterloo.ca</a></p>
+				<ul class="actions">
+					<li><a href="https://linkedin.com/in/stefan-mazzadi/" class="button">Profile</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	<section id="Evelyn">
 		<a href="https://linkedin.com/in/egondosi/" class="image">
 			<img src="{% link assets/images/evelyn.jpg %}" alt="" data-position="center center" />
@@ -60,7 +78,6 @@ banner_color: style5
 				</ul>
 			</div>
 		</div>
-	</section>
 </section>
 
 <section>
