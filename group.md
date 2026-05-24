@@ -79,6 +79,24 @@ banner_color: style5
 			</div>
 		</div>
 </section>
+<section id="Daniel">
+		<a href="https://www.linkedin.com/in/d227/" class="image">
+			<img src="{% link assets/images/daniel.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Daniel Nguyen</h3>
+				</header>
+				<p><i>MASc Student (May 2025 to Present)</i></p>
+				<p>My research focuses on developing reformulation methods for <a href="research/infiniteopt.html#infinite-dimensional-generalized-disjunctive-programming">generalized disjunctive programming</a> and their extensions to <a href="research/infiniteopt.html">infinite-dimensional optimization</a>.</p>
+				<p>Contact me at <a href="mailto:d227nguy@uwaterloo.ca">d227nguy@uwaterloo.ca</a></p>
+				<ul class="actions">
+					<li><a href="https://www.linkedin.com/in/d227/" class="button">Profile</a></li>
+				</ul>
+			</div>
+		</div>
+</section>
 
 <section>
 	<div class="inner">

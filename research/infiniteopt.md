@@ -21,6 +21,11 @@ To address the above gap, we developed  a <b>unifying abstraction for infinite-d
 
 InfiniteOpt problems are solved via direct transcription, producing large-scale finite-dimensional problems with highly recurrent algebraic structure. By exploiting this structure through a single instruction, multiple data (SIMD) abstraction, these problems can be parallelized on GPU architectures to significantly accelerate solution times. We implement this abstraction in the Julia package [InfiniteExaModels.jl](https://github.com/infiniteopt/InfiniteExaModels.jl), enabling scalable solution of nonlinear InfiniteOpt problems. This is especially impactful for applications such as nonlinear model predictive control, where such problems must be solved in real time.
 
+# Infinite-Dimensional Generalized Disjunctive Programming
+<img src="../assets/images/infinite_gdp_example.jpg" style="max-width:1500px;width:100%">
+
+Many real-world systems combine <b>continuous dynamics</b> with <b>discrete logical decisions</b>, such as mode switching in chemical reactors, batch process scheduling, and control of hybrid dynamical systems. Generalized disjunctive programming (GDP) provides a natural language for such structure, but extending it to infinite-dimensional settings introduces new modeling and algorithmic challenges. We extend GDP to the infinite-dimensional setting, enabling descisions whose constraints depend on continuous parameters such as time, space, or uncertainty. This extentsion is available in the Julia package [DisjunctiveProgramming.jl](https://github.com/infiniteopt/DisjunctiveProgramming.jl). This is especially impactful for hybrid dynamic optimization, mode-switching control, and logic-based scheduling.
+
 <ul class="actions">
     <li><a href="/research.html#infiniteopt" class="button icon fa-arrow-left">Go back to Research Summaries</a></li>
 </ul>
