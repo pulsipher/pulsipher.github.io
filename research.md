@@ -77,6 +77,24 @@ banner_color: style5
 			</div>
 		</div>
 	</section>
+	<section id="circle">
+		<a href="research/circle.html" class="image">
+			<img src="{% link assets/images/circle_proj.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Center for Innovative Recycling and Circular Economy (CIRCLE)</h3>
+				</header>
+				<p><i>Ongoing Project</i></p>
+				<p>This project is part of an international global centre with over 40 researchers from 18 academic institutions and various industry partners. The goal is to develop sustainable bioprocesses to reduce pollution and contribute to a circular economy by converting different waste streams into valuable products. Our contribution will be focused on making software tools to aid in optimized process design while incorporating environmental burden, and developing better methodologies for creating robust models of complex biological processes.</p>
+				<ul class="actions">
+					<li><a href="research/circle.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
 	<!-- <section id="neuralops">
 		<a href="research/neuralops.html" class="image">
 			<img src="{% link assets/images/fluid_flow.jpg %}" alt="" data-position="center center" />

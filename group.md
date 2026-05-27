@@ -42,7 +42,7 @@ banner_color: style5
 				</ul>
 			</div>
 		</div>
-	</section>
+		</section>
 	<section id="Evelyn">
 		<a href="https://linkedin.com/in/egondosi/" class="image">
 			<img src="{% link assets/images/evelyn.jpg %}" alt="" data-position="center center" />
@@ -143,7 +143,7 @@ banner_color: style5
 					<h3>Shawn Benedict</h3>
 				</header>
 				<p><i>PhD Student (Sept 2025 to Present)</i></p>
-				<p>My research focuses on developing tools for incorporating environmental burdens as a key consideration in process design and process intensification. I have a particular interest in life cycle assessments, superstructure optimization, and generalized disjunctive programming.</p>
+				<p>My research focuses on developing tools for incorporating environmental burdens as a key consideration in process design and process intensification. I have a particular interest in <a href="research/circle.html">life cycle assessments</a>, superstructure optimization, and generalized disjunctive programming. </p>
 				<p>Contact me at <a href="mailto:s2benedi@uwaterloo.ca">s2benedi@uwaterloo.ca</a></p>
 				<ul class="actions">
 					<li><a href="https://linkedin.com/in/shawn-benedict73/" class="button">Profile</a></li>
@@ -161,7 +161,7 @@ banner_color: style5
 					<h3>Daniele Palladino</h3>
 				</header>
 				<p><i>PhD Student (Sept 2025 to Present)</i></p>
-				<p>My research focuses on developing computational tools for dynamic model identification and parameter estimation to support sustainable bioprocess design for a circular economy.</p>
+				<p>My research focuses on developing computational tools for dynamic model identification and parameter estimation to support <a href="research/circle.html">sustainable bioprocess design for a circular economy</a>. </p>
 				<p>Contact me at <a href="mailto:dpalladi@uwaterloo.ca">dpalladi@uwaterloo.ca</a></p>
 				<ul class="actions">
 					<li><a href="https://ca.linkedin.com/in/daniele-palladino" class="button">Profile</a></li>
