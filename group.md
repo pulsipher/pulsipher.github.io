@@ -97,6 +97,24 @@ banner_color: style5
 			</div>
 		</div>
 	</section>
+	<section id="Dani">
+		<a href="https://www.linkedin.com/in/daniel-foncer" class="image">
+			<img src="{% link assets/images/dani.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Daniel Fonseca-Cerrato</h3>
+				</header>
+				<p><i>MASc Student (Sept 2025 to Present)</i></p>
+				<p>My research focuses on transforming high-dimensional sensor data from compartment fires into transparent, actionable insights using interpretable machine learning. By building machine-learning models without "black-box" obscurity, this work decodes complex fire dynamics to through chemical relationships. Ultimately, this research bridges data science and real-world deployment, driving the next generation of smart sensing technologies and life-saving decision-support tools for first responders.</p>
+				<p>Contact me at <a href="mailto:d3fonsec@uwaterloo.ca">d3fonsec@uwaterloo.ca</a></p>
+				<ul class="actions">
+					<li><a href="https://www.linkedin.com/in/daniel-foncer" class="button">Profile</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	<section id="Shawn">
 		<a href="https://linkedin.com/in/shawn-benedict73" class="image">
 			<img src="{% link assets/images/shawn.jpg %}" alt="" data-position="center center" />
