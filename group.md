@@ -61,6 +61,24 @@ banner_color: style5
 			</div>
 		</div>
 	</section>
+	<section id="Shayesteh">
+		<a href="https://www.linkedin.com/in/shaydolat/" class="image">
+			<img src="{% link assets/images/shayesteh.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Shayesteh Dolatabadi</h3>
+				</header>
+				<p><i>PhD Student (Feb 2025 to Present)</i></p>
+				<p>Operation of large public spaces to regulate temperature, humidity, and indoor air quality involves spatially distributed dynamics that are difficult to optimize at scale. My research addresses this through PDE-constrained optimization and developing hybrid models to keep the problem tractable. </p>
+				<p>Contact me at <a href="mailto:s3dolata@uwaterloo.ca">s3dolata@uwaterloo.ca</a></p>
+				<ul class="actions">
+					<li><a href="https://www.linkedin.com/in/shaydolat/" class="button">Profile</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	<section id="Daniel">
 		<a href="https://www.linkedin.com/in/d227/" class="image">
 			<img src="{% link assets/images/daniel.jpg %}" alt="" data-position="center center" />
@@ -97,7 +115,7 @@ banner_color: style5
 			</div>
 		</div>
 	</section>
-</section>
+</section>	
 <section>
 	<div class="inner">
 		<ul class="actions">
