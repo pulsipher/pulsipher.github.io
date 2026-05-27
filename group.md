@@ -61,6 +61,24 @@ banner_color: style5
 			</div>
 		</div>
 	</section>
+	<section id="Manvir">
+		<a href="https://www.linkedin.com/in/manvir-banwait-abaa8919b/" class="image">
+			<img src="{% link assets/images/manvir.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Manvir Banwait</h3>
+				</header>
+				<p><i>MASc Student (Jan 2025 to Present)</i></p>
+				<p>My research focuses on developing neural-network surrogates for differential equations, embedding them in nonlinear model predictive control frameworks, and using GPU-accelerated optimization for training and simulation.</p>
+				<p>Contact me at <a href="mailto:m2banwai@uwaterloo.ca">m2banwai@uwaterloo.ca</a></p>
+				<ul class="actions">
+					<li><a href="https://www.linkedin.com/in/manvir-banwait-abaa8919b/" class="button">Profile</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	<section id="Shayesteh">
 		<a href="https://www.linkedin.com/in/shaydolat/" class="image">
 			<img src="{% link assets/images/shayesteh.jpg %}" alt="" data-position="center center" />
@@ -71,7 +89,7 @@ banner_color: style5
 					<h3>Shayesteh Dolatabadi</h3>
 				</header>
 				<p><i>PhD Student (Feb 2025 to Present)</i></p>
-				<p>Operation of large public spaces to regulate temperature, humidity, and indoor air quality involves spatially distributed dynamics that are difficult to optimize at scale. My research addresses this through PDE-constrained optimization and developing hybrid models to keep the problem tractable. </p>
+				<p>Operation of large public spaces to regulate temperature, humidity, and indoor air quality involves spatially distributed dynamics that are difficult to optimize at scale. My research addresses this through PDE-constrained optimization and developing hybrid models to keep the problem tractable.</p>
 				<p>Contact me at <a href="mailto:s3dolata@uwaterloo.ca">s3dolata@uwaterloo.ca</a></p>
 				<ul class="actions">
 					<li><a href="https://www.linkedin.com/in/shaydolat/" class="button">Profile</a></li>
@@ -125,7 +143,7 @@ banner_color: style5
 					<h3>Shawn Benedict</h3>
 				</header>
 				<p><i>PhD Student (Sept 2025 to Present)</i></p>
-				<p>My research focuses on developing tools for incorporating environmental burdens as a key consideration in process design and process intensification. I have a particular interest in life cycle assessments, superstructure optimization, and generalized disjunctive programming. </p>
+				<p>My research focuses on developing tools for incorporating environmental burdens as a key consideration in process design and process intensification. I have a particular interest in life cycle assessments, superstructure optimization, and generalized disjunctive programming.</p>
 				<p>Contact me at <a href="mailto:s2benedi@uwaterloo.ca">s2benedi@uwaterloo.ca</a></p>
 				<ul class="actions">
 					<li><a href="https://linkedin.com/in/shawn-benedict73/" class="button">Profile</a></li>
@@ -143,7 +161,7 @@ banner_color: style5
 					<h3>Daniele Palladino</h3>
 				</header>
 				<p><i>PhD Student (Sept 2025 to Present)</i></p>
-				<p>My research focuses on developing computational tools for dynamic model identification and parameter estimation to support sustainable bioprocess design for a circular economy. </p>
+				<p>My research focuses on developing computational tools for dynamic model identification and parameter estimation to support sustainable bioprocess design for a circular economy.</p>
 				<p>Contact me at <a href="mailto:dpalladi@uwaterloo.ca">dpalladi@uwaterloo.ca</a></p>
 				<ul class="actions">
 					<li><a href="https://ca.linkedin.com/in/daniele-palladino" class="button">Profile</a></li>
