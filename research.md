@@ -77,6 +77,23 @@ banner_color: style5
 			</div>
 		</div>
 	</section>
+	<section id="hvac">
+		<a href="research/hvac.html" class="image">
+			<img src="{% link assets/images/hvac.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>PDE-Constrained Optimization of Conditioned Spaces</h3>
+				</header>
+				<p><i>Ongoing Project</i></p>
+				<p>Balancing occupant comfort against energy use, greenhouse gases emissions, costs, and environmental impact is not trivial in large indoor conditioned spaces. Ice rinks in particular are challenging since they exhibit significant variability in temperature and humidity, time-varied occupancy, weather-driven disturbances, and volatile electricity pricing. we are developing an optimization framework that jointly considers energy costs and occupant comfort under realistic operational constraints while remaining computationally tractable.</p>
+				<ul class="actions">
+					<li><a href="research/hvac.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	<section id="circle">
 		<a href="research/circle.html" class="image">
 			<img src="{% link assets/images/circle_proj.png %}" alt="" data-position="center center" />

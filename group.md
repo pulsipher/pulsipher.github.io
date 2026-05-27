@@ -89,7 +89,7 @@ banner_color: style5
 					<h3>Shayesteh Dolatabadi</h3>
 				</header>
 				<p><i>PhD Student (Feb 2025 to Present)</i></p>
-				<p>Operation of large public spaces to regulate temperature, humidity, and indoor air quality involves spatially distributed dynamics that are difficult to optimize at scale. My research addresses this through PDE-constrained optimization and developing hybrid models to keep the problem tractable.</p>
+				<p>Operation of large public spaces to regulate temperature, humidity, and indoor air quality involves spatially distributed dynamics that are difficult to optimize at scale. My research addresses this through <a href="research/hvac.html">PDE-constrained optimization</a> and developing hybrid models to keep the problem tractable.</p>
 				<p>Contact me at <a href="mailto:s3dolata@uwaterloo.ca">s3dolata@uwaterloo.ca</a></p>
 				<ul class="actions">
 					<li><a href="https://www.linkedin.com/in/shaydolat/" class="button">Profile</a></li>
