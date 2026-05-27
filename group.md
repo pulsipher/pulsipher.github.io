@@ -133,7 +133,25 @@ banner_color: style5
 			</div>
 		</div>
 	</section>
-</section>	
+	<section id="Daniele">
+		<a href="https://ca.linkedin.com/in/daniele-palladino" class="image">
+			<img src="{% link assets/images/daniele.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Daniele Palladino</h3>
+				</header>
+				<p><i>PhD Student (Sept 2025 to Present)</i></p>
+				<p>My research focuses on developing computational tools for dynamic model identification and parameter estimation to support sustainable bioprocess design for a circular economy. </p>
+				<p>Contact me at <a href="mailto:dpalladi@uwaterloo.ca">dpalladi@uwaterloo.ca</a></p>
+				<ul class="actions">
+					<li><a href="https://ca.linkedin.com/in/daniele-palladino" class="button">Profile</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
 <section>
 	<div class="inner">
 		<ul class="actions">
