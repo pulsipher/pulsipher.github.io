@@ -111,6 +111,23 @@ banner_color: style5
 			</div>
 		</div>
 	</section>
+	<section id="fire">
+		<a href="research/fire.html" class="image">
+			<img src="{% link assets/images/circle_proj.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Data Framework for High-Dimensional Compartment Fire Data</h3>
+				</header>
+				<p><i>Ongoing Project</i></p>
+				<p>Modern airtight residential construction has fundamentally changed how house fires behave, producing more toxic and unpredictable under-ventilated fires that our codes and common practices weren't designed for. We developed a <a href="https://doi.org/10.1016/j.firesaf.2026.104738">data-driven framework</a> to analyze high-dimensional gas sensor data from full-scale compartment fire experiments, enabling us to systematically identify stages of under-ventilated compartment fires, identify which chemical species most strongly correlate with fire intensity, detect faulty sensor measurements, and reliably detect regime transitions using deployable sensors.</p>
+				<ul class="actions">
+					<li><a href="research/fire.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 
 	<!-- <section id="neuralops">
 		<a href="research/neuralops.html" class="image">

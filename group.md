@@ -35,7 +35,7 @@ banner_color: style5
 					<h3>Stefan Mazzadi</h3>
 				</header>
 				<p><i>MASc Student (Sept 2024 to Present)</i></p>
-				<p>My research focuses on developing optimization-based production scheduling tools and decision-support systems for industrial manufacturing operations, with interests including generalized disjunctive programming, mixed-integer programming, and hierarchical multi-objective optimization. My broader work spans computational optimization across multiple domains, including contributions to event-constrained programming and sustainable agriculture through optimized hydroponic operating strategies. </p>
+				<p>My research focuses on developing optimization-based production scheduling tools and decision-support systems for industrial manufacturing operations, with interests including generalized disjunctive programming, mixed-integer programming, and hierarchical multi-objective optimization. My broader work spans computational optimization across multiple domains, including contributions to <a href="https://doi.org/10.1016/j.compchemeng.2025.109145">event-constrained programming</a> and sustainable agriculture through <a href="https://doi.org/10.1016/j.cep.2025.110446">optimized hydroponic operating strategies</a>. </p>
 				<p>Contact me at <a href="mailto:smazzadi@uwaterloo.ca">smazzadi@uwaterloo.ca</a></p>
 				<ul class="actions">
 					<li><a href="https://linkedin.com/in/stefan-mazzadi/" class="button">Profile</a></li>
@@ -125,7 +125,7 @@ banner_color: style5
 					<h3>Daniel Fonseca-Cerrato</h3>
 				</header>
 				<p><i>MASc Student (Sept 2025 to Present)</i></p>
-				<p>My research focuses on transforming high-dimensional sensor data from compartment fires into transparent, actionable insights using interpretable machine learning. By building machine-learning models without "black-box" obscurity, this work decodes complex fire dynamics to through chemical relationships. Ultimately, this research bridges data science and real-world deployment, driving the next generation of smart sensing technologies and life-saving decision-support tools for first responders.</p>
+				<p>My research focuses on transforming <a href="research/fire.html">high-dimensional sensor data from compartment fires</a> into transparent, actionable insights using interpretable machine learning. By building machine-learning models without "black-box" obscurity, this work decodes complex fire dynamics to through chemical relationships. Ultimately, this research bridges data science and real-world deployment, driving the next generation of smart sensing technologies and life-saving decision-support tools for first responders.</p>
 				<p>Contact me at <a href="mailto:d3fonsec@uwaterloo.ca">d3fonsec@uwaterloo.ca</a></p>
 				<ul class="actions">
 					<li><a href="https://www.linkedin.com/in/daniel-foncer" class="button">Profile</a></li>
