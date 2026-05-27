@@ -71,7 +71,7 @@ banner_color: style5
 					<h3>Manvir Banwait</h3>
 				</header>
 				<p><i>MASc Student (Jan 2025 to Present)</i></p>
-				<p>My research focuses on developing neural-network surrogates for differential equations, embedding them in nonlinear model predictive control frameworks, and using GPU-accelerated optimization for training and simulation.</p>
+				<p>My research focuses on developing <a href="research/surrogates.html">neural-network surrogates for differential equations</a>, embedding them in nonlinear model predictive control frameworks, and using GPU-accelerated optimization for training and simulation.</p>
 				<p>Contact me at <a href="mailto:m2banwai@uwaterloo.ca">m2banwai@uwaterloo.ca</a></p>
 				<ul class="actions">
 					<li><a href="https://www.linkedin.com/in/manvir-banwait-abaa8919b/" class="button">Profile</a></li>

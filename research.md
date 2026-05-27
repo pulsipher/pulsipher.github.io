@@ -60,19 +60,19 @@ banner_color: style5
 			</div>
 		</div>
 	</section>
-	<section id="hpinn">
-		<a href="research/hpinn.html" class="image">
-			<img src="{% link assets/images/hpinn.png %}" alt="" data-position="center center" />
+	<section id="surrogates">
+		<a href="research/surrogates.html" class="image">
+			<img src="{% link assets/images/surrogates.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Hard Constrained Machine Learning Models</h3>
+					<h3>Machine Learning Surrogate Models</h3>
 				</header>
 				<p><i>Ongoing Project</i></p>
-				<p>Machine learning models such as neural networks have proven highly versatile in a wide variety of engineering applications. We are developing neural network models that guarantee constraint statisfaction, enabling us to embed domain knowledge via constraints that increase model robustness, reduce overfitting, and reduce reliance on large datasets. Moreover, we are developing software to efficiently train these models on GPU and embed them in large-scale optimization models that can be solved with rapid 2nd-order GPU solvers.  </p>
+				<p>Machine learning models such as neural networks have proven highly versatile in a wide variety of engineering applications. We are developing neural network models that guarantee constraint statisfaction, enabling us to embed domain knowledge via constraints that increase model robustness, reduce overfitting, and reduce reliance on large datasets. Moreover, we are developing software to efficiently train these models on GPU and embed them in large-scale optimization models that can be solved with rapid 2nd-order GPU solvers.</p>
 				<ul class="actions">
-					<li><a href="research/hpinn.html" class="button">Learn more</a></li>
+					<li><a href="research/surrogates.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

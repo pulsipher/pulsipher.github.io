@@ -2,7 +2,7 @@
 layout: mdpage
 title: PDE-Constrained Optimization of Conditioned Spaces
 image: assets/images/hvac.jpg
-description: 'Harnessing Surrogate Modeling for Scalable Airflow Optimization'
+description: 'Scalable High-Fidelity Modeling for Airflow Optimization'
 nav-menu: false
 show_tile: false
 banner_color: style5
