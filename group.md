@@ -61,6 +61,24 @@ banner_color: style5
 			</div>
 		</div>
 	</section>
+	<section id="Fateme">
+		<a href="https://linkedin.com/in/fateme-mohammadi-08204b186/" class="image">
+			<img src="{% link assets/images/fateme.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Fateme Mohammad Mohammadi</h3>
+				</header>
+				<p><i>PhD Student (Sept 2024 to Present)</i></p>
+				<p>My research focuses on developing hard-constrained neural networks for process systems engineering applications. I combine machine learning, process modeling, and optimization to build efficient, physically consistent surrogate models that satisfy constraints by construction. </p>
+				<p>Contact me at <a href="mailto:f25moham@uwaterloo.ca">f25moham@uwaterloo.ca</a></p>
+				<ul class="actions">
+					<li><a href="https://linkedin.com/in/fateme-mohammadi-08204b186/" class="button">Profile</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	<section id="Manvir">
 		<a href="https://www.linkedin.com/in/manvir-banwait-abaa8919b/" class="image">
 			<img src="{% link assets/images/manvir.jpg %}" alt="" data-position="center center" />
