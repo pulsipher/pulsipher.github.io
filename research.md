@@ -60,23 +60,75 @@ banner_color: style5
 			</div>
 		</div>
 	</section>
-	<section id="hpinn">
-		<a href="research/hpinn.html" class="image">
-			<img src="{% link assets/images/hpinn.png %}" alt="" data-position="center center" />
+	<section id="surrogates">
+		<a href="research/surrogates.html" class="image">
+			<img src="{% link assets/images/surrogates.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Hard Constrained Machine Learning Models</h3>
+					<h3>Machine Learning Surrogate Models</h3>
 				</header>
 				<p><i>Ongoing Project</i></p>
-				<p>Machine learning models such as neural networks have proven highly versatile in a wide variety of engineering applications. We are developing neural network models that guarantee constraint statisfaction, enabling us to embed domain knowledge via constraints that increase model robustness, reduce overfitting, and reduce reliance on large datasets. Moreover, we are developing software to efficiently train these models on GPU and embed them in large-scale optimization models that can be solved with rapid 2nd-order GPU solvers.  </p>
+				<p>Machine learning models such as neural networks have proven highly versatile in a wide variety of engineering applications. We are developing neural network models that guarantee constraint statisfaction, enabling us to embed domain knowledge via constraints that increase model robustness, reduce overfitting, and reduce reliance on large datasets. Moreover, we are developing software to efficiently train these models on GPU and embed them in large-scale optimization models that can be solved with rapid 2nd-order GPU solvers.</p>
 				<ul class="actions">
-					<li><a href="research/hpinn.html" class="button">Learn more</a></li>
+					<li><a href="research/surrogates.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+	<section id="hvac">
+		<a href="research/hvac.html" class="image">
+			<img src="{% link assets/images/hvac.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>PDE-Constrained Optimization of Conditioned Spaces</h3>
+				</header>
+				<p><i>Ongoing Project</i></p>
+				<p>Balancing occupant comfort against energy use, greenhouse gases emissions, costs, and environmental impact is not trivial in large indoor conditioned spaces. Ice rinks in particular are challenging since they exhibit significant variability in temperature and humidity, time-varied occupancy, weather-driven disturbances, and volatile electricity pricing. we are developing an optimization framework that jointly considers energy costs and occupant comfort under realistic operational constraints while remaining computationally tractable.</p>
+				<ul class="actions">
+					<li><a href="research/hvac.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section id="circle">
+		<a href="research/circle.html" class="image">
+			<img src="{% link assets/images/circle_proj.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Center for Innovative Recycling and Circular Economy (CIRCLE)</h3>
+				</header>
+				<p><i>Ongoing Project</i></p>
+				<p>This project is part of an international global centre with over 40 researchers from 18 academic institutions and various industry partners. The goal is to develop sustainable bioprocesses to reduce pollution and contribute to a circular economy by converting different waste streams into valuable products. Our contribution will be focused on making software tools to aid in optimized process design while incorporating environmental burden, and developing better methodologies for creating robust models of complex biological processes.</p>
+				<ul class="actions">
+					<li><a href="research/circle.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section id="fire">
+		<a href="research/fire.html" class="image">
+			<img src="{% link assets/images/fire.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Data Framework for High-Dimensional Compartment Fire Data</h3>
+				</header>
+				<p><i>Ongoing Project</i></p>
+				<p>Modern airtight residential construction has fundamentally changed how house fires behave, producing more toxic and unpredictable under-ventilated fires that our codes and common practices weren't designed for. We developed a <a href="https://doi.org/10.1016/j.firesaf.2026.104738">data-driven framework</a> to analyze high-dimensional gas sensor data from full-scale compartment fire experiments, enabling us to systematically identify stages of under-ventilated compartment fires, identify which chemical species most strongly correlate with fire intensity, detect faulty sensor measurements, and reliably detect regime transitions using deployable sensors.</p>
+				<ul class="actions">
+					<li><a href="research/fire.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
 	<!-- <section id="neuralops">
 		<a href="research/neuralops.html" class="image">
 			<img src="{% link assets/images/fluid_flow.jpg %}" alt="" data-position="center center" />
