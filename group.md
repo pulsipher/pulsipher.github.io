@@ -71,7 +71,7 @@ banner_color: style5
 					<h3>Fateme Mohammad Mohammadi</h3>
 				</header>
 				<p><i>PhD Student (Sept 2024 to Present)</i></p>
-				<p>My research focuses on developing hard-constrained neural networks for process systems engineering applications. I combine machine learning, process modeling, and optimization to build efficient, physically consistent surrogate models that satisfy constraints by construction. </p>
+				<p>My research focuses on developing <a href="research/surrogates.html">hard-constrained neural networks</a> for process systems engineering applications. I combine machine learning, process modeling, and optimization to build efficient, physically consistent surrogate models that satisfy constraints by construction. </p>
 				<p>Contact me at <a href="mailto:f25moham@uwaterloo.ca">f25moham@uwaterloo.ca</a></p>
 				<ul class="actions">
 					<li><a href="https://linkedin.com/in/fateme-mohammadi-08204b186/" class="button">Profile</a></li>
