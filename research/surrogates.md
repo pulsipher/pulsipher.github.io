@@ -11,8 +11,13 @@ banner_color: style5
 # Background
 Engineering processes and systems are shaped by nonlinear dynamics, physical constraints, and phenomena that are difficult to describe fully using first principles. To address these modelling gaps, hybrid physics models and machine learning have emerged as viable methods for predicting system behaviour. However, classic neural networks frequently deviate from underlying physical laws, yielding incorrect or infeasible predictions. These physical inconsistencies make standard models non-ideal for constrained optimization and <b>nonlinear model predictive control (NMPC)</b> frameworks. Our research addresses these issues by developing hard-constrained and physics-guided machine learning methods that enforce physical laws and system constraints during training. Specifically, we focus on <b>hard-constrained physics-informed neural networks</b>, <b>hybrid neural differential algebraic equations</b>, and optimization-based training tailored for control applications.
 
+# Hard Constrained Neural Networks for PSE Applications
+<img src="../assets/images/pl_kkt_hpinns.png" style="max-width:700px;width:100%">
+
+<b>Physics-informed neural networks (PINNs)</b> are powerful tools for data-driven modeling of complex physical systems. However, because physical equations are typically included only as soft penalties in the training loss, PINNs do not guarantee constraint satisfaction during prediction. This has motivated the development of <b>hard-constrained neural network surrogates</b> that enforce physical laws by construction. Our research focuses on developing non-iterative, computationally efficient KKT-based frameworks for chemical process modeling, aiming to build accurate, physically consistent surrogate models for optimization and control.
+
 # Optimal Control with Neural Differential Algebraic Equations
-<img src="../assets/images/neural_mpc.png" style="max-width:900px;width:100%">
+<img src="../assets/images/neural_mpc.png" style="max-width:700px;width:100%">
 
 Recent advances in training <b>neural differential algebraic equations</b> (Neural-DAE) allow model parameters to be optimized simultaneously with hard constraints. Yet, these models have not been applied to nonlinear optimal control. Our research implements hard-constrained Neural-DAEs within <b>nonlinear model predictive control</b> frameworks using [InfiniteOpt.jl](https://infiniteopt.github.io/InfiniteOpt.jl/stable/) and GPU-acceleration via [InfiniteExaModels.jl](https://github.com/infiniteopt/InfiniteExaModels.jl) to provide accurate, scalable control of nonlinear dynamic systems. 
 
